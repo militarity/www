@@ -20,7 +20,13 @@ W systemie Militarity chodzi o możliwość modularyzacji sprzętu w praktyce.
 
 Gdy potrzebne jest rozwiazanie, które dowozi szybciej i to przez modularyzację na wielu poziomach.
 
-Cele są takie 
+
+
+mimo, że mobilność gra coraz mniejszą rolę, to w niektórych projektach np. sprzetowych jest istotna, dlatego modularyzuje hardware w takich skrzynkach, bo niektóre projekty będą wymagały testowania w terenie w przemyśle IoT, testowaniu 4G i 5G
+
+
+
+
 
 ### Sprzęt
 
@@ -44,6 +50,7 @@ Idąc dalej, każdy taka skrzynka ma 2 komputery w sobie i można je łączyć w
 
 ### Korzyści
 
++ dostęp jednocześnie do wielu środowisk: linux, macos, win, ...
 + Nie ma ograniczeń ani wad laptopów
 + Skrzynki są modularne, można je umieścić w dowolnym miejscu i pracować z już istniejącą infrastruklturą lub niezależnie.
 
