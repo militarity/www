@@ -92,9 +92,14 @@ w praktyce modularyzacja oznacza wyższe koszty i są one uzasadnione jedynie w 
 
 ### grupa odbiorców
 
+
 Aktywni ludzie pracujący w różnych zespołach, miejscach, działający aktywnie na wielu polach.
 Dla takich nie ma alternatywy.
 Czas to pieniądz, jeśli każda Twoja sekunda jest więcej warta niż kolejny raz podłączanie i sprawdzaqnie kabelków, zamiast zajęcie się najistotniejszą częścią edukacji, to ten sprzęt jest na dziś najlepszym mobilnym rozwiazaniem, odpornym na starzenie się poszczególnych sprzętów, gdyż można je sleketywnie wymieniać.
+
+To nie jest rozwiazanie dla minimalistów siedzących w biurach.
+
+Wszsędzie tam, gdzie liczy się wszechstronność i elastyczność nie osiągalna przy dedykowanych sprżetach pozostaje modularna architektura.
 
 
 
