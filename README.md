@@ -68,5 +68,14 @@ nie tracisz czasu na kabli na podłączanie
 niby wystarczy laptop, ale laptop jest ograniczony, nie jest konfigurowalny i ma bardziej ograniczone możliwości podłączenia niż MINIPC
 
 
+### Edukacja mobilna, w terenie
+
+taki mobilny warsztat/hackerspace umożliwi tworzenie dopasowanych do grupy odbiorców materiałów edukacyjnych 
+jeśli np. szkolenie/warsztat obejmuje zakres do RPI, bez IoT to skrzynki moga być podzielone tematycznie, zestawami
+To oszczędza czas nie tylko na znalezienie, ale też podłączenie, gdyż każda skrzynka ma porty wyjściowe w modularnym standardzie keyston
+
+
+
+[Keystone module - Wikipedia](https://en.wikipedia.org/wiki/Keystone_module)
 
 
