@@ -79,3 +79,22 @@ To oszczędza czas nie tylko na znalezienie, ale też podłączenie, gdyż każd
 [Keystone module - Wikipedia](https://en.wikipedia.org/wiki/Keystone_module)
 
 
+## Zastosowanie
+
+w praktyce modularyzacja oznacza wyższe koszty i są one uzasadnione jedynie w środowisku zróżnicowanym, czyli:
+
+1. hardware development
+2. software development
+3. Prace biurowe
+4. Tworzenie marketingu, audio, video
+
+
+
+### grupa odbiorców
+
+Aktywni ludzie pracujący w różnych zespołach, miejscach, działający aktywnie na wielu polach.
+Dla takich nie ma alternatywy.
+Czas to pieniądz, jeśli każda Twoja sekunda jest więcej warta niż kolejny raz podłączanie i sprawdzaqnie kabelków, zamiast zajęcie się najistotniejszą częścią edukacji, to ten sprzęt jest na dziś najlepszym mobilnym rozwiazaniem, odpornym na starzenie się poszczególnych sprzętów, gdyż można je sleketywnie wymieniać.
+
+
+
