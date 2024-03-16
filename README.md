@@ -1,4 +1,7 @@
-## www.militarity.com
+# www.militarity.com
+
++ [historia powstania](HISTORY.md)
+
 
 The project started 2 years before on [Walizka .tv – Mobilne Studio Nagrań Audio Video](https://www.walizka.tv/)
 Today we are testing more suitcases for a mobile office:
